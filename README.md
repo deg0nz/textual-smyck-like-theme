@@ -15,7 +15,7 @@ This theme is based on the textual-solarized-dark theme by Xorcode
 ## Installation
 
     $ cd ~/Library/Containers/com.codeux.irc.textual/Data/Library/Application\ Support/Textual\ IRC/Styles/
-    $ git clone git@bitbucket.org:deg0nz/smyck-like-textual-theme.git
+    $ git clone https://github.com/deg0nz/textual-smyck-like-theme.git
 
 ## Support
 
