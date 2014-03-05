@@ -5,6 +5,9 @@ So big credit to him! Visit his pages http://smyck.net and http://color.smyck.or
 
 The theme is still under development, and some changes will come in the future. It's not yet perfect, but usable.
 
+Screenshot here (Blogpost):
+
+[kayuk.de](http://kayuk.de/blog/2014/01/textual-theme-with-smyck-colors/)
 
 This theme is based on the textual-solarized-dark theme by Xorcode
 (https://github.com/Xorcode/ OR http://www.xorcode.com/)
